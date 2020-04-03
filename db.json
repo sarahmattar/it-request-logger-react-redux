@@ -1,0 +1,18 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Install cable box",
+      "attention": false,
+      "tech": "Sarah Mattar",
+      "date": "2020-04-03T01:33:38.415Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Sarah",
+      "lastName": "Mattar",
+      "id": 1
+    }
+  ]
+}
