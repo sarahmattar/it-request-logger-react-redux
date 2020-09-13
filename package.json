@@ -24,7 +24,7 @@
     "json-server": "json-server --watch db.json --port 5000",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "heroku-postbuild": "concurrently \"npm build\" \"npm run json-server\""
+    "heroku-postbuild": "concurrently \"npm run start\" \"npm run json-server\""
   },
   "eslintConfig": {
     "extends": "react-app"
