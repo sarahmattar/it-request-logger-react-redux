@@ -1,13 +1,5 @@
 {
-  "logs": [
-    {
-      "message": "Update Heroku stack",
-      "tech": "Sarah Mattar",
-      "attention": true,
-      "date": "2022-07-18T02:26:52.457Z",
-      "id": 1
-    }
-  ],
+  "logs": [],
   "techs": [
     {
       "firstName": "Sarah",
